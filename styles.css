@@ -31,7 +31,8 @@ body {
 /* Header styles */
 header {
     text-align: center;
-    margin-bottom: 35px;
+    margin-bottom: 35px;\
+    font-style: mistral;
 }
 
 h1 {
