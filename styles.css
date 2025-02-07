@@ -32,7 +32,7 @@ body {
 header {
     text-align: center;
     margin-bottom: 35px;\
-    font-style: mistral;
+   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
